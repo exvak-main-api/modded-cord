@@ -1,10 +1,10 @@
 {
-  "name": "Aetheris Void",
+  "name": "exvak",
   "description": "Ultra Dark Black Theme with Custom Background",
   "authors": [
     {
-      "name": "AsterionVT",
-      "id": "183251375193456641"
+      "name": "exvak",
+      "id": "1234"
     }
   ],
   "semanticColors": {
@@ -37,24 +37,24 @@
 
     "GREEN_360": "#4dd4ff",
 
-    "BRAND_100": "#d9d9d9",
-    "BRAND_130": "#bfbfbf",
-    "BRAND_160": "#a6a6a6",
-    "BRAND_200": "#8c8c8c",
-    "BRAND_230": "#737373",
-    "BRAND_260": "#666666",
-    "BRAND_300": "#595959",
-    "BRAND_330": "#4d4d4d",
-    "BRAND_345": "#404040",
-    "BRAND_360": "#333333",
-    "BRAND_400": "#262626",
-    "BRAND_430": "#202020",
-    "BRAND_460": "#1a1a1a",
-    "BRAND_500": "#141414",
-    "BRAND_530": "#101010",
-    "BRAND_560": "#0d0d0d",
-    "BRAND_600": "#0a0a0a",
-    "BRAND_660": "#080808",
+    "BRAND_100": "#ffffff",
+    "BRAND_130": "#f2f2f2",
+    "BRAND_160": "#d9d9d9",
+    "BRAND_200": "#bfbfbf",
+    "BRAND_230": "#a6a6a6",
+    "BRAND_260": "#8c8c8c",
+    "BRAND_300": "#737373",
+    "BRAND_330": "#595959",
+    "BRAND_345": "#4d4d4d",
+    "BRAND_360": "#404040",
+    "BRAND_400": "#333333",
+    "BRAND_430": "#262626",
+    "BRAND_460": "#202020",
+    "BRAND_500": "#1a1a1a",
+    "BRAND_530": "#141414",
+    "BRAND_560": "#101010",
+    "BRAND_600": "#0d0d0d",
+    "BRAND_660": "#0a0a0a",
     "BRAND_700": "#050505",
     "BRAND_730": "#040404",
     "BRAND_760": "#030303",
@@ -79,44 +79,22 @@
     "PLUM_24": "#111111",
 
     "TEXT_LINK": "#8ab4ff",
-    "TEXT_NORMAL": "#e5e5e5",
+    "TEXT_NORMAL": "#ffffff",
+    "TEXT_MUTED": "#b3b3b3",
     "WHITE_500": "#ffffff",
+
+    "HEADER_PRIMARY": "#ffffff",
+    "HEADER_SECONDARY": "#d1d5db",
+
+    "INTERACTIVE_NORMAL": "#ffffff",
+    "INTERACTIVE_ACTIVE": "#ffffff",
+    "INTERACTIVE_HOVER": "#ffffff",
+
+    "CHANNELTEXTAREA_PLACEHOLDER": "#9ca3af",
 
     "GUILD_BOOSTING_PINK": "#ff66aa",
     "GUILD_BOOSTING_PURPLE": "#9f7aea",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#6b46c1",
-
-    "CREATOR_REVENUE_END": "#00c6ff",
-    "CREATOR_REVENUE_START": "#0072ff",
-
-    "CRUNCHYROLL": "#f78b24",
-    "EBAY": "#0064d2",
-    "EPIC_GAMES": "#202020",
-    "FACEBOOK": "#355089",
-    "GITHUB": "#0d1117",
-    "GOLD": "#ffc819",
-
-    "GUILD_BOOSTING_BLUE": "#3e70dd",
-    "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#3442d9",
-
-    "HYPESQUAD_HOUSE_1": "#9c84ef",
-    "HYPESQUAD_HOUSE_2": "#f47b67",
-    "HYPESQUAD_HOUSE_3": "#45ddc0",
-
-    "PARTNER": "#4087ed",
-    "PAYPAL": "#13216b",
-    "PLAYSTATION": "#032f87",
-
-    "PREMIUM_PERK_BLUE": "#80a6ff",
-    "PREMIUM_PERK_BLUE_ALT": "#9cb8ff",
-    "PREMIUM_PERK_DARK_BLUE": "#4173da",
-    "PREMIUM_PERK_GOLD": "#faa61a",
-    "PREMIUM_PERK_GREEN": "#86dcc5",
-    "PREMIUM_PERK_LIGHT_BLUE": "#aec7ff",
-    "PREMIUM_PERK_ORANGE": "#fc964b",
-    "PREMIUM_PERK_PINK": "#ff80f4",
-    "PREMIUM_PERK_PURPLE": "#d09aff",
-    "PREMIUM_PERK_YELLOW": "#fed648"
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#6b46c1"
   },
 
   "fonts": {
@@ -145,12 +123,12 @@
     "mentionLineColor": "#444444",
     "icons": {
       "ic_new_pins": "#ffffff",
-      "StatusStreaming": "#8b5cf6",
-      "StatusMobileOnline": "#22c55e",
-      "StatusIdle": "#facc15",
-      "StatusDND": "#ef4444",
-      "StatusOffline": "#6b7280",
-      "StatusOnline": "#22c55e"
+      "StatusStreaming": "#ffffff",
+      "StatusMobileOnline": "#ffffff",
+      "StatusIdle": "#ffffff",
+      "StatusDND": "#ffffff",
+      "StatusOffline": "#ffffff",
+      "StatusOnline": "#ffffff"
     }
   },
 
